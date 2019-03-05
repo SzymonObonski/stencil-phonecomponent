@@ -1,0 +1,13 @@
+.form-field {
+    display: flex;
+    background: var(--background, white);
+    height: 35px;
+
+    &__select {
+      flex: 0 0 150px;
+    }
+
+    &__input {
+      flex: 1;
+    }
+  }

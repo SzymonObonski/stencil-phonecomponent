@@ -1,0 +1,10 @@
+phone-field {
+    --background: red;
+    --border-color: green;
+    --border-color-focus: red;
+  
+    --font-size: 15px;
+    --font-weight: 400;
+    --font-family: Arial;
+    --font: var(--font-weight --font-size --font-family);
+  }
